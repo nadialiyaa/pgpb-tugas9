@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PGPB_9</string>
+    <string name="button_desc">Zoom In</string>
+    <string name="button_des">Zoom Out</string>
+</resources>
